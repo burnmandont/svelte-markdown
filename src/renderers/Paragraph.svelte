@@ -1,1 +1,1 @@
-<p><slot></slot></p>
+<p style="textIndent: 2em"><slot></slot></p>
